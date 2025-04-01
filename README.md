@@ -186,4 +186,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 ## Nota
 
-Este projeto não é afiliado oficialmente ao Filmow.com. É uma ferramenta de comunidade para uso pessoal.
+Este projeto não é afiliado oficialmente ao Filmow.com. É uma ferramenta de comunidade para uso pessoal. A ferramenta é gratuita, mas para quem quiser me pagar um café como agradecimento, segue o meu PIX: alexandre.dev.work@gmail.com.
